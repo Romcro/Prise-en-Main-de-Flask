@@ -1,0 +1,20 @@
+# Requête GET pour récupérer la liste des utilisateurs
+GET http://127.0.0.1:5000/users
+
+###
+
+# Requête POST pour ajouter un utilisateur
+POST http://127.0.0.1:5000/users
+Content-Type: application/json
+
+{
+  "name": "Alice Doe",
+  "email": "alice@example.com"
+}
+
+###
+
+# Requête GET pour vérifier que l'utilisateur a été ajouté
+GET http://127.0.0.1:5000/users
+
+# les 3# qui se suivent dans ce document permettent de pouvoir empiler les requetes à la suite, sinoin une seule requet est executable à la fois 
