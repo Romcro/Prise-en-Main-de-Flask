@@ -1,18 +1,12 @@
 [
-    {
-        "name": "Romuald CROCHAT",
-        "email": "crochatromuald@gmail.com"
-    },
-    {
-        "name": "Paul OCHON",
-        "email": "polochon@example.com"
-    },
-    {
-        "name": "Firmin PEUTABOUCHE",
-        "email": "taistoi@exemple.com"
-    },
-    {
-        "name": "Abel AUBOISDORMAN",
-        "email": "prince-du-57@example.com"
-    }
+  {
+    "name": "Serge KARAMAZOV",
+    "email": "questcequilyconnaitauxfemmesrickhunter@example.com",
+    "password": "scrypt:32768:8:1$yGtNbQYYidXEN9YV$549ad1725d6303a67226f89be456719c636e99c026ea1a7b7196701bf585c9c166c39228acdb99814aa896cac8035a97d6ce6b9d01d6fdbdf61934148900b5fc"
+  },
+  {
+    "name": "Abel AUBOISDORMAN",
+    "email": "princedu54@exemple.com",
+    "password": "scrypt:32768:8:1$2cS3FDC9O8Vl7t14$d65a93aa8c4995162ea497a9da83ff5a3d61983b6e089c8b2997ff43f0b342a5414342ec9400dc63ee11b0042e9ec822a40a72e0c6e5997a587188e016c62e1c"
+  }
 ]
