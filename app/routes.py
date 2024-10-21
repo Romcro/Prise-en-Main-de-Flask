@@ -89,7 +89,7 @@ def dashboard():
     if 'user' in session:
         # Afficher le tableau de bord pour l'utilisateur connecté
         print(f"Accès au tableau de bord pour : {session['user']}")  # Débogage
-        return render_template('dashboard.html', user=session['user'])
+        return render_template('dashboard.html', user=session['user'], users=users)
     
     # Si l'utilisateur n'est pas connecté, afficher un message d'erreur et rediriger vers la page de connexion
     flash('Veuillez vous connecter pour accéder à cette page.', 'error')

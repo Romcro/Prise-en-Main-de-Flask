@@ -13,6 +13,20 @@
   <body>
     <h1>Bienvenue, {{ user }} !</h1>
     <p>Ceci est votre tableau de bord.</p>
+
+    <div class="container">
+      <h2>Liste des utilisateurs</h2>
+      <ul>
+        {% for user in users %}
+        <li>
+          <span>Nom:</span> {{ user['name'] }}<br />
+          <span>Email:</span> {{ user['email'] }}
+        </li>
+        {% endfor %}
+      </ul>
+      <a href="/">Ajouter un nouvel utilisateur</a>
+    </div>
+
     <a href="/logout">Se déconnecter</a>
   </body>
 </html>

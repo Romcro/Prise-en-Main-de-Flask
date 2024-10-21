@@ -1,12 +1,17 @@
 [
-  {
-    "name": "Serge KARAMAZOV",
-    "email": "questcequilyconnaitauxfemmesrickhunter@example.com",
-    "password": "scrypt:32768:8:1$yGtNbQYYidXEN9YV$549ad1725d6303a67226f89be456719c636e99c026ea1a7b7196701bf585c9c166c39228acdb99814aa896cac8035a97d6ce6b9d01d6fdbdf61934148900b5fc"
-  },
-  {
-    "name": "Abel AUBOISDORMAN",
-    "email": "princedu54@exemple.com",
-    "password": "scrypt:32768:8:1$2cS3FDC9O8Vl7t14$d65a93aa8c4995162ea497a9da83ff5a3d61983b6e089c8b2997ff43f0b342a5414342ec9400dc63ee11b0042e9ec822a40a72e0c6e5997a587188e016c62e1c"
-  }
+    {
+        "name": "Serge KARAMAZOV",
+        "email": "questcequilyconnaitauxfemmesrickhunter@example.com",
+        "password": "scrypt:32768:8:1$yGtNbQYYidXEN9YV$549ad1725d6303a67226f89be456719c636e99c026ea1a7b7196701bf585c9c166c39228acdb99814aa896cac8035a97d6ce6b9d01d6fdbdf61934148900b5fc"
+    },
+    {
+        "name": "Abel AUBOISDORMAN",
+        "email": "princedu54@exemple.com",
+        "password": "scrypt:32768:8:1$2cS3FDC9O8Vl7t14$d65a93aa8c4995162ea497a9da83ff5a3d61983b6e089c8b2997ff43f0b342a5414342ec9400dc63ee11b0042e9ec822a40a72e0c6e5997a587188e016c62e1c"
+    },
+    {
+        "name": "Romuald CROCHAT",
+        "email": "crochatromuald@gmail.com",
+        "password": "scrypt:32768:8:1$91oNHHlIRNeZq0ew$539daa09f9ecb45b62239aa7ea5742f690e27cf3a929489488020ae52d92e290016f2723322b1d0cbcd790d1f37103d18dc6f15baefbeea5f1db11374a191fe9"
+    }
 ]
